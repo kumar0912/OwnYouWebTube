@@ -1,2 +1,2 @@
-The most parent component must be responsible
+The most parent comonent must be responsible
 for fetching data be it from api or from flux framework or from redux.
